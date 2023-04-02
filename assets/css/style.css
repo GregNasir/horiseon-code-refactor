@@ -32,16 +32,13 @@ body {
     font-size: 20px;
 }
 
-.header-links ul {
+.header-links li {
+    display: inline-block;
+    margin-left: 25px;
     list-style-type: none;
 }
 
-.header-links ul li {
-    display: inline-block;
-    margin-left: 25px;
-}
-
-a {
+.header a {
     color: #ffffff;
     text-decoration: none;
 }
