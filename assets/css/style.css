@@ -42,7 +42,7 @@ body {
 .header .seo {
     color: #d9dcd6;
 }
-/* should this be renamed?*/
+
 #digital-marketing-meeting img {
     height: 800px;
     width: 100%;
@@ -51,7 +51,7 @@ body {
     background-position: center;
 }
 
-#search-engine-optimization {
+#search-engine-optimization, #online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -60,8 +60,18 @@ body {
     color: #ffffff;
 }
 
-#search-engine-optimization img {
+#search-engine-optimization img, #online-reputation-management img {
     max-height: 200px;
+}
+
+#search-engine-optimization .float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+#search-engine-optimization h2, #online-reputation-management h2, .social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
 p {
@@ -70,12 +80,9 @@ p {
 
 
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
 
-.float-right {
+
+#online-reputation-management .float-right {
     float: right;
     margin-left: 25px;
 }
@@ -145,26 +152,6 @@ p {
     max-width: 150px;
 }
 
-
-
-#online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-#online-reputation-management img {
-    max-height: 200px;
-}
-
-#online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -180,18 +167,6 @@ p {
 
 .social-media-marketing img {
     max-height: 200px;
-}
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 .footer {
