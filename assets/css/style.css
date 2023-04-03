@@ -43,8 +43,8 @@ body {
     margin-left: 25px;
     list-style-type: none;
 }
-
-.content {
+/*should this be a class or id?*/
+.marketing-solutions {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
