@@ -3,10 +3,11 @@
     padding: 0;
     margin: 0;
 }
-
+/* sets the background color for the body of webpage*/
 body {
     background-color: #d9dcd6;
 }
+
 
 .header {
     padding: 20px;
@@ -25,7 +26,7 @@ body {
     text-decoration: none;
 }
 
-
+/* changes the color of three letters in company name*/
 .header .seo {
     color: #d9dcd6;
 }
@@ -51,6 +52,10 @@ body {
     margin-left: 20px;
 }
 
+p {
+    font-size: 16px;
+}
+
 #digital-marketing-meeting img {
     height: 800px;
     width: 100%;
@@ -59,6 +64,7 @@ body {
     background-position: center;
 }
 
+/* groups the  id's within the main class with similar settings */
 #search-engine-optimization, #online-reputation-management, #social-media-marketing{
     margin-bottom: 20px;
     padding: 50px;
@@ -68,20 +74,25 @@ body {
     color: #ffffff;
 }
 
+
 #search-engine-optimization img, #online-reputation-management img, #social-media-marketing img {
     max-height: 200px;
 }
+
 
 #search-engine-optimization h2, #online-reputation-management h2, #social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* lets images under search engine optimizatin and social media marketing
+set to the left of container */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* lets image under online reputation management set to the right of container */
 .float-right {
     float: right;
     margin-left: 25px;
@@ -98,6 +109,7 @@ body {
     background-color: #2589bd;
 }
 
+/* consolidates id's under .benefits that hold similar settings */
 #benefit-lead, #benefit-brand, #benefit-cost {
     margin-bottom: 24px;
     color: #ffffff;
@@ -125,6 +137,3 @@ body {
     font-size: 20px;
 }
 
-p {
-    font-size: 16px;
-}
