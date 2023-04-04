@@ -1,6 +1,10 @@
-# Horiseon Marketing: Code Refactor
+# Horiseon-Code-Refactor
 
-## 
+## Refactoring of existing code for Hiriseon landing page
+
+While maintaining it's original presentation, this webpage coding was refactored to provide a more concise and clearer understaning, of its html and css elements. 
+
+
 
 
 ## User Story
