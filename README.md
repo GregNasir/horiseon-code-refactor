@@ -1,8 +1,19 @@
-# Horiseon-Code-Refactor
+# Horiseon Code Refactor
 
-## Refactoring of existing code for Hiriseon landing page
+## Refactoring of existing code for Horiseon's landing page
 
-While maintaining it's original presentation, this webpage coding was refactored to provide a more concise and clearer understaning, of its html and css elements. 
+While maintaining it's original presentation and functions; this webpage coding was refactored to provide a more concise and clear understanding, of its html and css elements. Durinig refactoring, several actions were taken to refine the underbelly of the website, while potentially improving performance. These include:
+
+"*" Semantic HTML used to provide more descriptive coding, in a logical structure
+"*" Comments added to describe roles of elements used
+"*" Classes were created to simplify coding of elements with similar styling
+"*" Alt attributes were completed with decriptive text
+"*" Heading attributes were placed in squential order.
+"*" CSS file restructured to group classes and elements in semantic structure
+"*" Website continously tested to maintain expected functionality
+"*" Commits to github to maintain latest adjustments
+
+
 
 
 
