@@ -30,10 +30,10 @@ Deployed site, provides detailed information on marketing solutions providing by
 
 ## Credits
 
-Columbia Engingeering Bootcamp resources
-<a href="https://robdodson.me/posts/css-semantics/">Rob Dodson Best CSS Practices</a>
-<a href="https://www.w3schools.com/">w3schools website</a>
-<a href="https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide">Professional README Guide</a>
+* Columbia Engingeering Bootcamp resources
+* <a href="https://robdodson.me/posts/css-semantics/">Rob Dodson Best CSS Practices</a>
+* <a href="https://www.w3schools.com/">w3schools website</a>
+* <a href="https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide">Professional README Guide</a>
 
 ## License
 
