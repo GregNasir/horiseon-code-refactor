@@ -59,4 +59,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/GregNasir/horiseon-code-refactor?logo=GitHub&style=plastic)
+![GitHub deployments](https://img.shields.io/github/deployments/GregNasir/horiseon-code-refactor/GitHub-pages?style=plastic)
+![GitHub](https://img.shields.io/github/license/GregNasir/horiseon-code-refactor?style=plastic)
