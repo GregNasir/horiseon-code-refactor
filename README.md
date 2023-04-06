@@ -21,8 +21,8 @@ that might be tasked with working with this code, in the future.
 
 ## Deployed site and repository
 
-* <a href="https://gregnasir.github.io/horiseon-code-refactor/">"Horiseon Marketing website"</a>
-* <a href="https://github.com/GregNasir/horiseon-code-refactor">"horiseon-code-refactor repository"</a>
+* <a href="https://gregnasir.github.io/horiseon-code-refactor/">Horiseon Marketing website</a>
+* <a href="https://github.com/GregNasir/horiseon-code-refactor">horiseon-code-refactor repository</a>
 
 ## Installation
 
