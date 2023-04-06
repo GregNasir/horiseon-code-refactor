@@ -19,6 +19,11 @@ several differents ways to get the same result. However, being concise and
 desriptive reads really well, and will be very helpful to any fellow developer,
 that might be tasked with working with this code, in the future.
 
+## Deployed site and repository
+
+<a href="https://gregnasir.github.io/horiseon-code-refactor/">"Horiseon Marketing website"</a>
+<a href="https://github.com/GregNasir/horiseon-code-refactor">"horiseon-code-refactor repository"</a>
+
 ## Installation
 
 All files including index.html were added, committed and pushed to GitHub. GitHub pages' deployment feature, was used to deploy the refactored website.
